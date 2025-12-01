@@ -106,11 +106,9 @@ Execute the program using runserver command.
         </table>
     </body>
 <html>
-OUTPUT
-
-Screenshot (31).png
-
-
+```
+## OUTPUT
+![alt text](<Screenshot (31).png>)
 
 
 ## RESULT
