@@ -105,12 +105,12 @@ Execute the program using runserver command.
             </tr>
         </table>
     </body>
-</html>
-```
+<html>
+OUTPUT
+
+Screenshot (31).png
 
 
-## OUTPUT
-[text](README.md)
 
 
 ## RESULT
